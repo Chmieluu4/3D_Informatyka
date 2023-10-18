@@ -1,0 +1,1 @@
+print("mango \ntruskawka \nbanan")

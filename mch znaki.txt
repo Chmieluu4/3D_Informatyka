@@ -1,0 +1,17 @@
++ dodawanie  np 5+2=7
+- odejmowanie  np 5-2=3
+* mnozenie  np 2*4=8
+** potegowanie  np 2**2=4
+/ dzielenie  np 4/2=2
+// dzielenie calkowite (zaokragla do liczb calkowitych) 7//3=2
+=> wieksze lub rowne    np 5=>2+3
+<= mniejsze lub rowne     np 2<=7-5
+> wieksze            np 9>3
+< mniejsze          np 1<6
+not zaprzeczanie       np not true => false   
+or wybor lub          true or false
+in w  (chodzi np o ilosc znakow w nawiasach)         3 in   [4,2,0]
+== znak rownosci       np 5==5
+!= znak nie rownosci     np 4!=3
+% reszta z dzielenia        np  9%4=1
+and i  echo"pyszne" and echo"zdrowe"
